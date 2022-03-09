@@ -1,0 +1,53 @@
+1. In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+* -> mathematical operator
+&#39;hello&#39; -> string
+-87.8 -> float
+- => mathematical operator
+/ => mathematical operator
++ => mathematical operator
+6 => integer
+
+2. What is the difference between string and variable?
+Ans:Variable is name of location in MM of computer, while string is value which is either stored in variable or assigned to variable by user.
+
+3. Describe three different data types.
+Ans:Integer which is data type for numbers, for ex. 1, 1205, 12015. 
+	Float which is data type for floating point number, for ex. 120.21, 1451.29999. 
+	String which is data type for charcters or collection of charcters, for ex. 'c', 'iNeuron.ai'.
+
+4. What is an expression made up of? What do all expressions do?
+Ans:Expressions are combination of operators and operands;
+
+
+5. This assignment statements, like spam = 10. What is the difference between an
+expression and a statement?
+Ans: Expressions return value, while statements do not return value.
+Arithmetic Expressions => Operators used in these expressions are arithmetic operators like addition, subtraction, multiplication, substraction, etc. which returns integer values.
+Relational Expressions -> Operators used in these expressions are relational operators like > , < , >= , <=, it returns boolean value.
+Logical Expressions -> Operators used in these expressions are logical operators like and, or , not, it also returns boolean value.
+
+
+6. After running the following code, what does the variable bacon contain?
+	bacon = 22
+	bacon + 1
+Ans: 23
+
+7. What should the values of the following two terms be?
+&#39;spam&#39; + &#39;spamspam&#39;
+&#39;spam&#39; * 3
+Ans: SyntaxError: invalid syntax
+
+8. Why is eggs a valid variable name while 100 is invalid?
+Ans: because it's rule in python that we can't start variable name with number. 
+
+9. What three functions can be used to get the integer, floating-point number, or string
+version of a value?
+Ans:
+int()
+str()
+float()
+
+10. Why does this expression cause an error? How can you fix it?
+&#39;I have eaten &#39; + 99 + &#39; burritos.&#39;
+Ans: #39;I have eaten &#39; + 99 + &#39; burritos.&#39;
